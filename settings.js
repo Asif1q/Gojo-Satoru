@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['9249701001']
-global.premium = ['9249701001']
-global.ownernomer = '9249701001'
+global.owner = ['919249701001']
+global.premium = ['919249701001']
+global.ownernomer = '919249701001'
 global.ownername =  'GeneralAAC'
 global.botname = 'GeneralAAC'
 global.footer = '©AAC'
